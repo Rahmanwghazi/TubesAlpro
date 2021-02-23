@@ -3,7 +3,6 @@
 #include <string.h>
 #include <iomanip>
 
-
 using namespace std;
 
     struct pst {
